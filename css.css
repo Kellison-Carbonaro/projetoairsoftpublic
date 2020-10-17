@@ -1,0 +1,141 @@
+ body{
+    margin: 0;
+    background-color: #f2f2f2;
+    }
+	
+#menu ul{
+	margin: 0;
+	background-color: #000000;
+	list-style: none;
+	}
+
+#menu ul li{
+	display: inline;
+	}
+
+#menu ul li a{
+	padding: 10px 80px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	}
+
+#menu ul li a:hover{
+	color: #000;
+	background-color: #264d00;
+	}
+
+#fundo {
+    background-color: #fff;
+    }					
+
+#pistola{
+ position: absolute; 
+ left: 330px; /* posiciona para a esquerda */ 
+ top:  100px; /* posiciona  para baixo */
+         }         
+
+#escopeta{
+ position: absolute; 
+ left: 660px; /* posiciona para a esquerda */ 
+ top:  100px; /* posiciona  para baixo */
+         }
+
+#Sub-Metralhadora{
+ position: absolute; 
+ left: -1250px; /* posiciona para a esquerda */ 
+ top:  100px; /* posiciona  para baixo */
+         }
+		 
+#Rifles{
+ position: absolute; 
+ left: 600px; /* posiciona para a esquerda */ 
+ top:  600px; /* posiciona  para baixo */
+         }    
+		 
+#Utilitarios{
+ position: absolute; 
+ left: 240px; /* posiciona para a esquerda */ 
+ top:  1200px; /* posiciona  para baixo */
+         }    
+
+.table {
+	width: 300px;
+	height: 450px;
+}
+
+.table2 {
+	width: 300px;
+	height: 450px;
+	margin-bottom: 20px;
+	margin-right: 300px;
+	margin-top: 100px;
+	padding: 3px;
+}
+
+#texto1 {
+	position: absolute; 
+	left: 800px; /* posiciona para a esquerda */ 
+	top: 822px; /* posiciona  para baixo */
+	}
+
+#logo_toxica {
+ position: absolute; 
+ left: 750px; /* posiciona para a esquerda */ 
+top: 750px; /* posiciona  para baixo */
+	}
+	
+#logo_toxica2 {
+ position: absolute; 
+ left: 720px; /* posiciona para a esquerda */ 
+ top:  530px; /* posiciona  para baixo */
+	}        
+
+#unidade_statere{
+	position: absolute; 
+	left: 810px; /* posiciona para a esquerda */ 
+	top:  555px; /* posiciona  para baixo */
+    }         
+
+#unidade_ali{
+	position: absolute; 
+	left: 60px; /* posiciona para a esquerda */ 
+	top:  555px; /* posiciona  para baixo */
+	}
+
+#mapa_unidade1{
+	position: absolute; 
+	left: 10px; /* posiciona para a esquerda */ 
+	top:  600px; /* posiciona  para baixo */
+	}
+
+#mapa_unidade2{
+	position: absolute; 
+	left: 750px; /* posiciona para a esquerda */ 
+	top:  600px; /* posiciona  para baixo */
+	}         
+
+#aulas {
+	color: #fff;
+	font-size: 20px;
+	width: 1350px;
+	text-align: center;
+    }
+
+#logotoxica {
+	position: absolute; 
+	left: 760px; /* posiciona para a esquerda */ 
+	top:  750px; /* posiciona  para baixo */
+	}         
+  
+#fotos_campo {
+position: absolute; 
+left: 800px; /* posiciona para a esquerda */ 
+top:  890px; /* posiciona  para baixo */
+    }
+
+#nosso_espaco {
+position: absolute; 
+left: 845px; /* posiciona para a esquerda */ 
+top: 780px; /* posiciona  para baixo */
+    }
